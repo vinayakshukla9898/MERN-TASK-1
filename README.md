@@ -1,1 +1,2 @@
-# MERN-TASK-1
+# MERN-Tasks
+Internship Tasks
